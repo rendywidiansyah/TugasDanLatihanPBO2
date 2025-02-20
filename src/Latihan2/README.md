@@ -29,7 +29,7 @@ Berikut adalah tampilan aplikasi Penghitung Umur:
 
 ### Tampilan Awal
 
-![Tampilan Awal](src/img/Latihan2Hitung.png)
+![alt text](src/img/Latihan2Utama.png)
 
 ### Hasil Perhitungan
 
