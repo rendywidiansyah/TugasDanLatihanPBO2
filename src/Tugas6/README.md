@@ -16,31 +16,31 @@ Aplikasi Informasi Cuaca adalah program Java yang menampilkan informasi cuaca se
 
 ### 1. Tampilan Utama
 
-![Tampilan Utama](URL-to-screenshot)
+![Tampilan Utama](tugas6Utama.png)
 
 Interface utama aplikasi menampilkan informasi cuaca terkini.
 
-### 2. Grafik Suhu
+### 2. Cek Kota
 
-![Grafik Suhu](URL-to-screenshot)
+![Cek Kota](Tugas6CekkotaFav.png)
 
 Visualisasi perubahan suhu dalam bentuk grafik.
 
-### 3. Prakiraan Cuaca
+### 3. Tambah Kota Ke Favorite
 
-![Prakiraan Cuaca](URL-to-screenshot)
+![Prakiraan Cuaca](Tugas6TambahFavorit.png)
 
 Prakiraan cuaca untuk beberapa hari ke depan.
 
-### 4. Detail Informasi
+### 4. Cek Kota Favorite
 
-![Detail Informasi](URL-to-screenshot)
+![Detail Informasi](Tugas6CekkotaFav.png)
 
 Tampilan detail parameter cuaca.
 
-### 5. Pengaturan Lokasi
+### 5. Hasil Save CSV
 
-![Pengaturan Lokasi](URL-to-screenshot)
+![Pengaturan Lokasi](tugas6hasilsaveCSV.png)
 
 Interface pengaturan dan pemilihan lokasi.
 

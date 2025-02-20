@@ -31,13 +31,13 @@ Komponen utama yang digunakan:
 
 ### Tambah Data
 
-![Tambah Data](URL-to-screenshot)
+![Tambah Data](Latihan3Tambah.png)
 
 Tampilan utama aplikasi dengan daftar kontak.
 
 ### Dialog Import/Export
 
-![Dialog Import/Export](URL-to-screenshot)
+![Dialog Import/Export](Latihan3Ex.png)
 
 Dialog untuk mengimpor atau mengekspor data.
 

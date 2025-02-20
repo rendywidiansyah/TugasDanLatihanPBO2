@@ -30,7 +30,7 @@ Aplikasi menggunakan komponen GUI berikut:
 
 ### Hasil Perhitungan
 
-![Hasil Perhitungan](URL-to-screenshot)
+![Hasil Perhitungan](Tugas4.png)
 
 Tampilan setelah melakukan perhitungan.
 
