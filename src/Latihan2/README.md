@@ -29,7 +29,7 @@ Berikut adalah tampilan aplikasi Penghitung Umur:
 
 ### Tampilan Awal
 
-![Tampilan Awal](c:\Users\SSD TURBO_BC\Documents\NetBeansProjects\TugasPBO2\src\img\Latihan2H.png)
+![Tampilan Awal](src/img/Latihan2Hitung.png)
 
 ### Hasil Perhitungan
 
