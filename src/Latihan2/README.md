@@ -29,11 +29,11 @@ Berikut adalah tampilan aplikasi Penghitung Umur:
 
 ### Tampilan Awal
 
-![alt text](src/img/Latihan2Utama.png)
+![alt text](Latihan2Utama.png)
 
 ### Hasil Perhitungan
 
-![Hasil Perhitungan](c:\Users\SSD TURBO_BC\Documents\NetBeansProjects\TugasPBO2\src\img\Latihan2U.png)
+![Hasil Perhitungan](Latihan2Hitung.png)
 
 ## Logika Program 🔄
 
